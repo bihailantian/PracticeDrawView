@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeDrawView</string>
+    <string name="title_draw_color">setColor</string>
+    <string name="title_draw_shader">setShader</string>
+</resources>
